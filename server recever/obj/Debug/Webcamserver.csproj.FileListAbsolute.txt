@@ -1,0 +1,10 @@
+D:\Documents and Settings\Nightcrawler\My Documents\Visual Studio 2010\Projects\server recever\bin\Debug\Conference System.exe
+D:\Documents and Settings\Nightcrawler\My Documents\Visual Studio 2010\Projects\server recever\bin\Debug\Conference System.pdb
+D:\Documents and Settings\Nightcrawler\My Documents\Visual Studio 2010\Projects\server recever\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Nightcrawler\My Documents\Visual Studio 2010\Projects\server recever\obj\Debug\Conference_System.Form1.resources
+D:\Documents and Settings\Nightcrawler\My Documents\Visual Studio 2010\Projects\server recever\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Documents and Settings\Nightcrawler\My Documents\Visual Studio 2010\Projects\server recever\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Documents and Settings\Nightcrawler\My Documents\Visual Studio 2010\Projects\server recever\obj\Debug\Conference System.exe
+D:\Documents and Settings\Nightcrawler\My Documents\Visual Studio 2010\Projects\server recever\obj\Debug\Conference System.pdb
+D:\Documents and Settings\Nightcrawler\My Documents\Visual Studio 2010\Projects\server recever\obj\Debug\Conference_System.Properties.Resources.resources
+D:\Documents and Settings\Nightcrawler\My Documents\Visual Studio 2010\Projects\server recever\obj\Debug\GenerateResource-ResGen.read.4.tlog

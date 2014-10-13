@@ -1,0 +1,2 @@
+D:\Documents and Settings\Nightcrawler\My Documents\Visual Studio 2010\Projects\finalp\VideoConference\obj\Debug\P2P Conference System.exe
+D:\Documents and Settings\Nightcrawler\My Documents\Visual Studio 2010\Projects\finalp\VideoConference\obj\Debug\P2P Conference System.pdb

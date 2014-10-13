@@ -1,0 +1,24 @@
+C:\Users\zahid.polin\Downloads\New folder\Video_Voice_Conferencing - Copy\Video_Voice_Conferencing\Peer-to-peer Conference System\bin\Debug\Conference System.exe
+C:\Users\zahid.polin\Downloads\New folder\Video_Voice_Conferencing - Copy\Video_Voice_Conferencing\Peer-to-peer Conference System\bin\Debug\Conference System.pdb
+C:\Users\zahid.polin\Downloads\New folder\Video_Voice_Conferencing - Copy\Video_Voice_Conferencing\Peer-to-peer Conference System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\zahid.polin\Downloads\New folder\Video_Voice_Conferencing - Copy\Video_Voice_Conferencing\Peer-to-peer Conference System\obj\Debug\Conference_System.Form1.resources
+C:\Users\zahid.polin\Downloads\New folder\Video_Voice_Conferencing - Copy\Video_Voice_Conferencing\Peer-to-peer Conference System\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\zahid.polin\Downloads\New folder\Video_Voice_Conferencing - Copy\Video_Voice_Conferencing\Peer-to-peer Conference System\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\zahid.polin\Downloads\New folder\Video_Voice_Conferencing - Copy\Video_Voice_Conferencing\Peer-to-peer Conference System\obj\Debug\Conference System.exe
+C:\Users\zahid.polin\Downloads\New folder\Video_Voice_Conferencing - Copy\Video_Voice_Conferencing\Peer-to-peer Conference System\obj\Debug\Conference System.pdb
+C:\Users\zahid.polin\Desktop\receive - Copy\obj\Debug\Conference System.exe
+C:\Users\zahid.polin\Desktop\receive - Copy\obj\Debug\Conference System.pdb
+C:\Users\zahid.polin\Desktop\receive - Copy\bin\Debug\Conference System.exe
+C:\Users\zahid.polin\Desktop\receive - Copy\bin\Debug\Conference System.pdb
+C:\Users\zahid.polin\Desktop\receive - Copy\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\zahid.polin\Desktop\receive - Copy\obj\Debug\Conference_System.Form1.resources
+C:\Users\zahid.polin\Desktop\receive - Copy\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\zahid.polin\Desktop\receive - Copy\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Documents and Settings\Nightcrawler\My Documents\Visual Studio 2010\Projects\server recever\obj\Debug\Conference System.exe
+D:\Documents and Settings\Nightcrawler\My Documents\Visual Studio 2010\Projects\server recever\obj\Debug\Conference System.pdb
+D:\Documents and Settings\Nightcrawler\My Documents\Visual Studio 2010\Projects\server recever\bin\Debug\Conference System.exe
+D:\Documents and Settings\Nightcrawler\My Documents\Visual Studio 2010\Projects\server recever\bin\Debug\Conference System.pdb
+D:\Documents and Settings\Nightcrawler\My Documents\Visual Studio 2010\Projects\server recever\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Nightcrawler\My Documents\Visual Studio 2010\Projects\server recever\obj\Debug\Conference_System.Form1.resources
+D:\Documents and Settings\Nightcrawler\My Documents\Visual Studio 2010\Projects\server recever\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Documents and Settings\Nightcrawler\My Documents\Visual Studio 2010\Projects\server recever\obj\Debug\GenerateResource-ResGen.write.1.tlog
